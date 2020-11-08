@@ -1,0 +1,19 @@
+!c::Send ^c	
+!v::Send ^v
+!w::Send ^w
+!a::Send ^a
+!s::Send ^s
+!x::Send ^x
+!t::Send ^t
+!f::Send ^f
+!z::Send ^z
+!r::Send ^r
+!d::Send ^d
+!l::Send ^l
+!p::Send ^p
+!q:: !f4
+RAlt:: ESC
+>!Right:: <#^Right
+
+; 设置热键来最小化活动窗口.
+!m::WinMinimize, A 
