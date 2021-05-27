@@ -11,6 +11,7 @@
 !d::Send ^d
 !l::Send ^l
 !p::Send ^p
+!n::Send ^n
 !q:: !f4
 RAlt:: ESC
 >!Right:: <#^Right
